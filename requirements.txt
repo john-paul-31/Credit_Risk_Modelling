@@ -1,0 +1,43 @@
+asttokens @ file:///opt/conda/conda-bld/asttokens_1646925590279/work
+backcall @ file:///home/ktietz/src/ci/backcall_1611930011877/work
+colorama @ file:///C:/ci_311/colorama_1676422310965/work
+comm @ file:///C:/ci_311/comm_1678376562840/work
+contourpy==1.0.7
+cycler==0.11.0
+debugpy @ file:///C:/ci_311/debugpy_1676426137692/work
+decorator @ file:///opt/conda/conda-bld/decorator_1643638310831/work
+executing @ file:///opt/conda/conda-bld/executing_1646925071911/work
+fonttools==4.39.4
+ipykernel @ file:///C:/ci_311/ipykernel_1678734799670/work
+ipython @ file:///C:/b/abs_d1yx5tjhli/croot/ipython_1680701887259/work
+jedi @ file:///C:/ci_311/jedi_1679427407646/work
+jupyter_client @ file:///C:/b/abs_059idvdagk/croot/jupyter_client_1680171872444/work
+jupyter_core @ file:///C:/b/abs_9d0ttho3bs/croot/jupyter_core_1679906581955/work
+kiwisolver==1.4.4
+matplotlib==3.7.1
+matplotlib-inline @ file:///C:/ci_311/matplotlib-inline_1676425798036/work
+nest-asyncio @ file:///C:/ci_311/nest-asyncio_1676423519896/work
+numpy==1.24.3
+packaging @ file:///C:/b/abs_ed_kb9w6g4/croot/packaging_1678965418855/work
+pandas==2.0.1
+parso @ file:///opt/conda/conda-bld/parso_1641458642106/work
+pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
+Pillow==9.5.0
+platformdirs @ file:///C:/ci_311/platformdirs_1676422658103/work
+prompt-toolkit @ file:///C:/ci_311/prompt-toolkit_1676425940920/work
+psutil @ file:///C:/ci_311_rebuilds/psutil_1679005906571/work
+pure-eval @ file:///opt/conda/conda-bld/pure_eval_1646925070566/work
+Pygments @ file:///C:/b/abs_d9h9j11ug0/croot/pygments_1683672541499/work
+pyparsing==3.0.9
+python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+pytz==2023.3
+pywin32==305.1
+pyzmq @ file:///C:/b/abs_8b16zbmf46/croot/pyzmq_1682697651374/work
+seaborn==0.12.2
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+sklearn==0.0.post5
+stack-data @ file:///opt/conda/conda-bld/stack_data_1646927590127/work
+tornado @ file:///C:/ci_311/tornado_1676423689414/work
+traitlets @ file:///C:/ci_311/traitlets_1676423290727/work
+tzdata==2023.3
+wcwidth @ file:///Users/ktietz/demo/mc3/conda-bld/wcwidth_1629357192024/work
